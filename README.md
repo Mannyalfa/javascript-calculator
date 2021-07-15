@@ -39,10 +39,10 @@ MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https
 HTML,CSS,JavaScript
 
 ## Repository URL
-https://github.com/Mannyalfa/calculator
+https://github.com/Mannyalfa/javascript-calculator
 
 ## Website
-https://mannyalfa.github.io/calculator/
+https://mannyalfa.github.io/javascript-calculator/
    
     
 ## Credits
