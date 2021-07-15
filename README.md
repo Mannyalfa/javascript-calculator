@@ -33,7 +33,7 @@ Just use like any other calculator
 MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Image
-![screenshot]()
+![screenshot](https://github.com/Mannyalfa/javascript-calculator/blob/master/assets/images/screenshot.png)
 
 ## Languages/Applications
 HTML,CSS,JavaScript
